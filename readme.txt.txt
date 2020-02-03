@@ -1,0 +1,1 @@
+Add the compiled program to your path variable and you will be able to call it in the needed directory. 
